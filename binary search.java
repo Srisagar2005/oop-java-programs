@@ -1,4 +1,4 @@
-mport java.util.*;
+import java.util.*;
 public class Search{
 	public static int BSearch(int a[],int n, int key){
 		int low=0;
